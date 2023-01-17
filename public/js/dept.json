@@ -1,0 +1,24 @@
+{
+	"科室数据": "",
+	"state": true,
+	"message": "SUCCESS",
+	"body": [
+		{
+			"name": "肾内科",
+			"id": 1
+		},
+		{
+			"name": "呼吸内科",
+			"id": 2
+		},
+		{
+			"name": "普外科",
+			"id": 3
+		},
+		{
+			"name": "泌尿外科",
+			"id": 4
+		}
+	],
+	"cause": null
+}
